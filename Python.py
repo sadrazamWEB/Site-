@@ -1,3 +1,5 @@
+#It is a code that works with Flask.
+
 from flask import Flask
 
 app = Flask(__name__)
